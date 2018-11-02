@@ -1,3 +1,4 @@
+//Push to new repository worked!
 var Microsoft;
 (function (Microsoft) {
     var ApplicationInsights;
