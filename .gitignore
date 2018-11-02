@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/QBox/Source/.vs/QBox/v15/Server/sqlite3/db.lock
